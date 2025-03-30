@@ -51,8 +51,8 @@ This Power BI project provides an interactive dashboard for analyzing sales data
 ## Data Source
 
 - The data source for this dashboard is the **Sample Superstore dataset**.
-  - **If you are including the data source:** You can download/access the dataset [here](#) (Provide link if available). Open the **.pbix** file in **Power BI Desktop** and connect to the data source.
-  - **If you are NOT including the data source:** The **.pbix** file is provided for demonstration purposes. To connect to a live data source, you will need to replace the existing data connection.
+  - **Dataset Available:** You can download/access the dataset [here](https://github.com/tanudhaka/Super_Store_Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx).
+  - Open the **.pbix** file in **Power BI Desktop** and connect to the dataset.
 
 ## Setup/Installation
 
